@@ -31,7 +31,7 @@ A brief description of the categories of changes:
 
 {#v0-0-0-fixed}
 ### Fixed
-- Nothing yet
+- #617: allow spaces in filenames included in `whl_library`s
 
 {#v0-0-0-added}
 ### Added
